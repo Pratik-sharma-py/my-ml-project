@@ -66,3 +66,5 @@ pytest
 - Put reusable code inside `src/`.
 - Use notebooks only for exploration, not production logic.
 - Save trained models inside `models/`.
+
+-- Author - Pratik Sharma
